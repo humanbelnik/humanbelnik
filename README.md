@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Belyaev Nikita</h1>
 <h3 align="center">BMSTU/ICS7/1stYear</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
