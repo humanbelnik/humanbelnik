@@ -1,5 +1,5 @@
 [<img align="left" alt="humanbelnik | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:belyaev.frog01@gmail.com)
-[<img align="left" alt="humanbelink | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/humanbelink)
+[<img align="left" alt="humanbelink | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/humanbelnik)
 <br/>
 
 I study Software engineering at Bauman's University and work as a Golang backend developer.
